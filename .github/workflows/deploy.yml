@@ -20,7 +20,7 @@ jobs:
           cargo install mdbook
 
       - name: Build the book
-        run: mdbook build FMEA  # 'FMEA' is your book directory
+        run: mdbook build mdBook  # 'FMEA' is your book directory
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
