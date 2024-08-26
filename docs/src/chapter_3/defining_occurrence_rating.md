@@ -1,0 +1,1 @@
+# Defining the Occurrence Rating
