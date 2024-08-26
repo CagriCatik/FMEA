@@ -52,8 +52,7 @@ This handbook is structured to guide you through the principles, processes, and 
 ### 7. Steps to Construct an FMEA
 
 - [ ] [Introduction](./chapter_7/introduction.md)
-- [ ] [Detailed Steps to Construct an FMEA - Part 01](./chapter_7/steps_to_construct_fmea_part01.md)
-- [ ] [Detailed Steps to Construct an FMEA - Part 02](./chapter_7/steps_to_construct_fmea_part02.md)
+- [ ] [Detailed Steps to Construct an FMEA](./chapter_7/steps_to_construct_fmea.md)
 
 ### 8. Benefits and Shortcomings of FMEA
 
