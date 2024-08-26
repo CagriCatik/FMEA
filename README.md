@@ -24,24 +24,24 @@ This handbook is structured to guide you through the principles, processes, and 
 
 ### 3. Stage 02: Specifying the Occurrence of Failure
 
-- [ ] [Introduction](./chapter_3/introduction.md)
-- [ ] [Identifying Potential Causes](./chapter_3/identifying_potential_causes.md)
-- [ ] [Defining the Occurrence Rating](./chapter_3/defining_occurrence_rating.md)
-- [ ] [Activity: Stage 02](./chapter_3/activity_stage02.md)
+- [x] [Introduction](./chapter_3/introduction.md)
+- [x] [Identifying Potential Causes](./chapter_3/identifying_potential_causes.md)
+- [x] [Defining the Occurrence Rating](./chapter_3/defining_occurrence_rating.md)
+- [x] [Activity: Stage 02](./chapter_3/activity_stage02.md)
 
 ### 4. Stage 03: Specifying the Detectability of Failure
 
-- [ ] [Introduction](./chapter_4/introduction.md)
-- [ ] [Current Process Controls Overview](./chapter_4/process_controls_overview.md)
-- [ ] [Defining the Detectability Rating](./chapter_4/defining_detectability_rating.md)
-- [ ] [Activity: Stage 03](./chapter_4/activity_stage03.md)
+- [x] [Introduction](./chapter_4/introduction.md)
+- [x] [Current Process Controls Overview](./chapter_4/process_controls_overview.md)
+- [x] [Defining the Detectability Rating](./chapter_4/defining_detectability_rating.md)
+- [x] [Activity: Stage 03](./chapter_4/activity_stage03.md)
 
 ### 5. Stage 04 and 05: Quantifying Risk and Correcting High-Risk Situations
 
-- [ ] [Introduction](./chapter_5/introduction.md)
-- [ ] [Explanation of RPN (Risk Priority Number)](./chapter_5/explanation_rpn.md)
-- [ ] [Recommended Actions for Risk Mitigation](./chapter_5/risk_mitigation_actions.md)
-- [ ] [Assigning Responsibility, Target Completion Dates, and Actions Taken](./chapter_5/assigning_responsibility.md)
+- [x] [Introduction](./chapter_5/introduction.md)
+- [x] [Explanation of RPN (Risk Priority Number)](./chapter_5/explanation_rpn.md)
+- [x] [Recommended Actions for Risk Mitigation](./chapter_5/risk_mitigation_actions.md)
+- [x] [Assigning Responsibility, Target Completion Dates, and Actions Taken](./chapter_5/assigning_responsibility.md)
 
 ### 6. Stage 06: Reevaluating the Risk and Visualizing FMEA Rankings
 
