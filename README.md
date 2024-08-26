@@ -6,25 +6,23 @@ This handbook is structured to guide you through the principles, processes, and 
 
 ### 1. Understanding FMEA
 
-- [Introduction](./chapter_1/1_introduction.md)
-- [Defining Failure Mode and Effect Analysis (FMEA)](./chapter_1/2_defining_fmea.md)
-- [Reasons and Timing for Using FMEA](./chapter_1/3_reasons_timing_fmea.md)
-- [The History of FMEA](./chapter_1/4_history_fmea.md)
-- [Types of FMEA](./chapter_1/5_types_fmea.md)
-- [Overview of Process FMEA](./chapter_1/6_overview_process_fmea.md)
-- [Activity: Understanding FMEA](./chapter_1/7_activity_understanding_fmea.md)
-- [Activity Solution: Understanding FMEA](./chapter_1/8_activity_solution_understanding_fmea.md)
+- [Introduction](./docs/src/chapter_1/1_introduction.md)
+- [Defining Failure Mode and Effect Analysis (FMEA)](./docs/src/chapter_1/2_defining_fmea.md)
+- [Reasons and Timing for Using FMEA](./docs/src/chapter_1/3_reasons_timing_fmea.md)
+- [The History of FMEA](./docs/src/chapter_1/4_history_fmea.md)
+- [Types of FMEA](./docs/src/chapter_1/5_types_fmea.md)
+- [Overview of Process FMEA](./docs/src/chapter_1/6_overview_process_fmea.md)
+- [Activity: Understanding FMEA](./docs/src/chapter_1/7_activity_understanding_fmea.md)
 
 ### 2. Stage 01: Identifying the Failure Mode and Specifying its Severity
 
-- [Introduction](./chapter_2/introduction.md)
-- [The Six Stages of FMEA](./chapter_2/six_stages_fmea.md)
-- [Process FMEA: Top Section Overview](./chapter_2/top_section_overview.md)
-- [Components of Stage 01: Part 01](./chapter_2/components_stage01_part01.md)
-- [Components of Stage 01: Part 02](./chapter_2/components_stage01_part02.md)
-- [Components of Stage 01: Part 03](./chapter_2/components_stage01_part03.md)
-- [Activity: Stage 01](./chapter_2/activity_stage01.md)
-- [Activity Solution: Stage 01](./chapter_2/activity_solution_stage01.md)
+- [Introduction](./chapter_2/2_introduction.md)
+- [The Six Stages of FMEA](./chapter_2/2_six_stages_fmea.md)
+- [Process FMEA: Top Section Overview](./chapter_2/2_top_section_overview.md)
+- [Components of Stage 01: Part 01](./chapter_2/2_components_stage01_part01.md)
+- [Components of Stage 01: Part 02](./chapter_2/2_components_stage01_part02.md)
+- [Components of Stage 01: Part 03](./chapter_2/2_components_stage01_part03.md)
+- [Activity: Stage 01](./chapter_2/2_activity_stage01.md)
 
 ### 3. Stage 02: Specifying the Occurrence of Failure
 
@@ -32,7 +30,6 @@ This handbook is structured to guide you through the principles, processes, and 
 - [Identifying Potential Causes](./chapter_3/identifying_potential_causes.md)
 - [Defining the Occurrence Rating](./chapter_3/defining_occurrence_rating.md)
 - [Activity: Stage 02](./chapter_3/activity_stage02.md)
-- [Activity Solution: Stage 02](./chapter_3/activity_solution_stage02.md)
 
 ### 4. Stage 03: Specifying the Detectability of Failure
 
@@ -40,7 +37,6 @@ This handbook is structured to guide you through the principles, processes, and 
 - [Current Process Controls Overview](./chapter_4/process_controls_overview.md)
 - [Defining the Detectability Rating](./chapter_4/defining_detectability_rating.md)
 - [Activity: Stage 03](./chapter_4/activity_stage03.md)
-- [Activity Solution: Stage 03](./chapter_4/activity_solution_stage03.md)
 
 ### 5. Stage 04 and 05: Quantifying Risk and Correcting High-Risk Situations
 
