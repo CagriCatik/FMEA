@@ -41,9 +41,17 @@
 
 - [Steps to Construct an FMEA](./chapter_7/0_chapter_7.md)
   - [Introduction](./chapter_7/1_introduction.md)
-  - [Detailed Steps to Construct an FMEA - Part 01](./chapter_7/2_steps_to_construct_fmea_part01.md)
-  - [Detailed Steps to Construct an FMEA - Part 02](./chapter_7/3_steps_to_construct_fmea_part02.md)
+  - [Detailed Steps to Construct an FMEA](./chapter_7/2_steps_to_construct_fmea_part.md)
 
 - [Benefits and Shortcomings of FMEA](./chapter_8/0_chapter_8.md)
   - [Benefits of FMEA](./chapter_8/1_benefits_fmea.md)
   - [Limitations and Challenges of FMEA](./chapter_8/2_limitations_challenges_fmea.md)
+
+- [Q&A](./chapter_9/9.md)
+  - [Understanding FMEA](./chapter_9/1.md)
+  - [Stage 01: Identifying the Failure Mode and Specifying its Severity](./chapter_9/2.md)
+  - [Stage 02: Specifying the Occurrence of Failure](./chapter_9/3.md)
+  - [Stage 03: Specifying the Detectability of Failure](./chapter_9/4.md)
+  - [Stage 04 and 05: Quantifying Risk and Correcting High-Risk Situations](./chapter_9/5.md)
+  - [Stage 06: Reevaluating the Risk and Visualizing FMEA Rankings](./chapter_9/6.md)
+  - [Steps to Construct an FMEA](./chapter_9/7.md)

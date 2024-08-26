@@ -45,9 +45,9 @@ This handbook is structured to guide you through the principles, processes, and 
 
 ### 6. Stage 06: Reevaluating the Risk and Visualizing FMEA Rankings
 
-- [ ] [Introduction](./chapter_6/introduction.md)
-- [ ] [Calculation of the Resulting RPN](./chapter_6/calculating_rpn.md)
-- [ ] [Creating a Spider Chart for FMEA Visualization](./chapter_6/creating_spider_chart.md)
+- [x] [Introduction](./chapter_6/introduction.md)
+- [x] [Calculation of the Resulting RPN](./chapter_6/calculating_rpn.md)
+- [x] [Creating a Spider Chart for FMEA Visualization](./chapter_6/creating_spider_chart.md)
 
 ### 7. Steps to Construct an FMEA
 
