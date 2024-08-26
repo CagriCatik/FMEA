@@ -174,6 +174,104 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="recommended-actions-for-risk-mitigation"><a class="header" href="#recommended-actions-for-risk-mitigation">Recommended Actions for Risk Mitigation</a></h1>
+<p>After assigning a Risk Priority Number (RPN) to each identified failure mode in the FMEA process, the next critical step is to determine and implement corrective actions aimed at mitigating these risks. The focus should be on addressing the failure modes with the highest RPN values, as well as those that have particularly high severity ratings, even if their overall RPN is lower.</p>
+<h2 id="what-are-recommended-actions"><a class="header" href="#what-are-recommended-actions">What Are Recommended Actions?</a></h2>
+<p>Recommended actions are specific steps that your team can take to reduce the risk associated with each failure mode. These actions are designed to lower one or more of the factors contributing to the RPN—namely severity, occurrence, or detectability. The ultimate goal is to reduce the RPN and, thereby, the risk to an acceptable level.</p>
+<p>When developing recommended actions, the team should prioritize failure modes with the highest RPN and work through them in descending order. Additionally, failure modes with high severity should be considered with particular attention, even if their RPN is not the highest. This ensures that critical risks are not overlooked due to lower occurrence or detectability ratings.</p>
+<h2 id="how-recommended-actions-influence-rpn-components"><a class="header" href="#how-recommended-actions-influence-rpn-components">How Recommended Actions Influence RPN Components</a></h2>
+<p>Each recommended action targets a specific aspect of the RPN:</p>
+<ol>
+<li>
+<p><strong>Reducing Occurrence:</strong></p>
+<ul>
+<li><strong>Objective:</strong> Lower the probability of the failure mode occurring.</li>
+<li><strong>Actions:</strong> These may involve redesigning the process or product to eliminate or control the causes of the failure mode. Examples include improving component quality, enhancing process controls, or implementing preventive maintenance strategies.</li>
+<li><strong>Impact:</strong> Successful actions here will reduce the occurrence rating (O), directly lowering the RPN.</li>
+</ul>
+</li>
+<li>
+<p><strong>Improving Detectability:</strong></p>
+<ul>
+<li><strong>Objective:</strong> Increase the likelihood of detecting the failure mode before it causes significant harm.</li>
+<li><strong>Actions:</strong> This can be achieved through enhanced process validation, better testing, or more stringent inspection protocols. The goal is to catch the failure mode earlier in the process, ideally before it reaches the customer.</li>
+<li><strong>Impact:</strong> Actions that improve detectability will lower the detectability rating (D), reducing the RPN.</li>
+</ul>
+</li>
+<li>
+<p><strong>Mitigating Severity:</strong></p>
+<ul>
+<li><strong>Objective:</strong> Decrease the impact of the failure mode if it does occur.</li>
+<li><strong>Actions:</strong> Severity is typically the most challenging factor to reduce because it often requires a fundamental change in the design or function of the system. Process-level revisions or design changes may be necessary to lessen the consequences of a failure mode.</li>
+<li><strong>Impact:</strong> A successful reduction in severity (S) will have a significant impact on the RPN, though such opportunities are generally less common compared to those for occurrence and detectability.</li>
+</ul>
+</li>
+</ol>
+<p>In some cases, there may be no feasible actions available to reduce the RPN further. In such scenarios, it is important to document that no actions are possible, so that future users of the FMEA can see that the failure mode has been thoroughly considered.</p>
+<h2 id="practical-example-recommended-actions"><a class="header" href="#practical-example-recommended-actions">Practical Example: Recommended Actions</a></h2>
+<p>Let's consider the previously discussed failure modes and explore the recommended actions for each:</p>
+<ol>
+<li>
+<p><strong>Failure Mode: No Calls</strong></p>
+<ul>
+<li><strong>Recommended Actions:</strong>
+<ul>
+<li>Implement a voice disaster recovery infrastructure.</li>
+<li>Add an appropriate notification procedure or escalation matrix.</li>
+<li>Incorporate awareness training on the escalation matrix for frontline supervisors.</li>
+</ul>
+</li>
+<li><strong>Impact:</strong> These actions primarily aim to reduce the occurrence and detectability ratings by improving system redundancy and response protocols.</li>
+</ul>
+</li>
+<li>
+<p><strong>Failure Mode: Call Drops</strong></p>
+<ul>
+<li><strong>Recommended Actions:</strong>
+<ul>
+<li>Conduct a timely review of the escalation matrix.</li>
+<li>Increase awareness among staff to follow the escalation matrix.</li>
+</ul>
+</li>
+<li><strong>Impact:</strong> These actions focus on improving detectability by ensuring that response procedures are well understood and adhered to.</li>
+</ul>
+</li>
+<li>
+<p><strong>Failure Mode: Bad Connections</strong></p>
+<ul>
+<li><strong>Recommended Actions:</strong>
+<ul>
+<li>Supervisors should replace faulty headsets immediately.</li>
+<li>The voice and telecom team should incorporate network boosters to improve call connectivity.</li>
+</ul>
+</li>
+<li><strong>Impact:</strong> These actions target both the occurrence and detectability ratings by addressing equipment reliability and enhancing network performance.</li>
+</ul>
+</li>
+<li>
+<p><strong>Failure Mode: Lower Decibel in Voice Quality</strong></p>
+<ul>
+<li><strong>Recommended Actions:</strong>
+<ul>
+<li>The telephony team should collaborate with the vendor to identify and rectify the root cause of the problem.</li>
+<li>Implement regular asset maintenance to prevent deterioration of voice quality.</li>
+</ul>
+</li>
+<li><strong>Impact:</strong> These actions are geared towards reducing the occurrence of the issue by ensuring that equipment is well-maintained and that any underlying problems are resolved.</li>
+</ul>
+</li>
+</ol>
+<h2 id="implementing-and-documenting-actions"><a class="header" href="#implementing-and-documenting-actions">Implementing and Documenting Actions</a></h2>
+<p>Once your team has identified suitable actions, it is essential to document them meticulously in your FMEA template. Each recommended action should include the following details:</p>
+<ul>
+<li><strong>Description of the Action:</strong> Clearly outline what needs to be done.</li>
+<li><strong>Responsible Party:</strong> Assign accountability to a specific individual or team.</li>
+<li><strong>Target Completion Date:</strong> Set a deadline for when the action should be implemented.</li>
+<li><strong>Expected Outcome:</strong> Specify the anticipated effect on the RPN, including which component(s) (S, O, D) are expected to decrease.</li>
+</ul>
+<p>It is crucial to monitor the implementation of these actions and reassess the RPN after they have been completed. This will help ensure that the actions have effectively mitigated the risk and that the system's reliability has improved.</p>
+<h2 id="activity-developing-recommended-actions-for-your-fmea"><a class="header" href="#activity-developing-recommended-actions-for-your-fmea">Activity: Developing Recommended Actions for Your FMEA</a></h2>
+<p>Now, it's time to apply this process to your FMEA. Review the failure modes you have identified and calculate their RPNs. For each failure mode, develop and document recommended actions aimed at reducing the RPN. Pay special attention to failure modes with high severity, as mitigating these should be a priority. Remember that while actions affecting severity are rare, they are critical when applicable.</p>
+<p>By systematically addressing each failure mode with appropriate actions, you can significantly reduce risks and enhance the overall reliability and safety of your systems.</p>
 
                     </main>
 
