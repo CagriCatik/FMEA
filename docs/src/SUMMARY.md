@@ -1,6 +1,6 @@
 # Summary
 
-- [1: Understanding FMEA](./chapter_1/0_understanding-fmea.md)
+- [Understanding FMEA](./chapter_1/0_understanding-fmea.md)
   - [Introduction](./chapter_1/1_introduction.md)
   - [Defining Failure Mode and Effect Analysis (FMEA)](./chapter_1/2_defining_fmea.md)
   - [Reasons and Timing for Using FMEA](./chapter_1/3_reasons_timing_fmea.md)
@@ -8,7 +8,6 @@
   - [Types of FMEA](./chapter_1/5_types_fmea.md)
   - [Overview of Process FMEA](./chapter_1/6_overview_process_fmea.md)
   - [Activity: Understanding FMEA](./chapter_1/7_activity_understanding_fmea.md)
-  - [Activity Solution: Understanding FMEA](./chapter_1/8_activity_solution_understanding_fmea.md)
 
 - [2: Stage 01: Identifying the Failure Mode and Specifying its Severity](./chapter_2/chapter_2.md)
   - [Introduction](./chapter_2/introduction.md)
